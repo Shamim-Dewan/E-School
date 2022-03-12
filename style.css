@@ -1,0 +1,108 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    background: #F0FFF0;
+}
+.sign{
+     width: 80px;
+     border-radius: 20px;
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     -ms-border-radius: 20px;
+     -o-border-radius: 20px;
+     background-color: #21B573;
+}
+.navber-expand:hover{
+cursor: default;
+}
+.navber-expand{
+    background: #F0FFF0;
+}
+.start{
+    width: 140px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-color: #21B573;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.green{
+    color: #21B573;
+}
+.pad-top{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.col-md-3{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.shadow{
+    box-shadow: 10px 10px 30px lightgrey;
+}
+.courses-btn{
+    text-decoration: none;
+    color: black;
+ 
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    margin-bottom: 4px;
+}
+.card{
+   text-align: center;
+    padding: 0px;
+    box-shadow: 10px 10px 30px lightgrey;
+    border: none;
+}
+#blog{
+    margin-top: 100px;
+}
+#blog h1{
+    margin-bottom: 50px;
+}
+.men{
+    width: 120px;
+    height: 120px;
+   
+}
+.text{
+    margin-top: 20px;
+}
+#others{
+    background-image: linear-gradient(90deg,black,rgb(21, 3, 27));
+    color: #F0FFF0;
+    height: fit-content;
+    
+}
+.list{
+    list-style: none;
+}
+.list .head{
+    font-weight: 1000;
+    color: #fff;
+}
+.child{
+    color: #ffffffde;
+}
+.copy{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.f1{
+    text-align: center;
+    margin-top: 20px;
+}
+.footer{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
